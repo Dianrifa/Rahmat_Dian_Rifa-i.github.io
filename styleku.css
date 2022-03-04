@@ -1,0 +1,49 @@
+:root {
+    /* * = universal(keseluruhan) */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(114, 97, 97);
+    line-height: 0.7cm;
+    text-align: justify;
+}
+
+h1 {
+    color: rgb(68, 23, 23);
+    line-height: 1cm;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+fieldset {
+    margin-top: 2%;
+    background-color: #d6c4b5;
+    border: 2px solid rgb(95, 20, 20);
+}
+
+legend {
+    color: brown;
+    border: 2px solid rgb(185, 150, 150);
+    background-color: rgb(179, 157, 131);
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px 5px 5px 5px;
+}
+
+body {
+    margin: 1cm 1cm;
+    background-color: rgb(126, 98, 43);
+}
+
+hr {
+    border: 1px solid rgb(77, 45, 45);
+}
+
+p {
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+
+a {
+    text-decoration: none;
+    color: bl;
+}
